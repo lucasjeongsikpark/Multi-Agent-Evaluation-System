@@ -1,6 +1,5 @@
 # Multi-Agent Debate for LLM Evaluation: A Survey
 
-> **CSCI 544 – Applied Natural Language Processing | University of Southern California**
 > A systematic benchmark of four state-of-the-art **Multi-Agent Debate Evaluation Frameworks (MADEFs)** for LLM-as-a-Judge across mathematical reasoning, open-domain dialogue, and medical QA.
 
 📄 **[Read the paper »](reports/CS544_Final.pdf)** · 📊 **[Results »](results/)** · 🧩 **[Framework Runner »](framework_runner/README.md)**
